@@ -1,7 +1,7 @@
 # CTITcasus
-ITcasus from Chang
+ITcasus uit Chang
 ## CPIkwartaalmutatie(begindatum,einddatum,data) 
-### R funtion which has been created to produce the output containing the dataframe
+### R-functie die is gemaakt om de uitvoer te produceren die het vereiste dataframe bevat
 ### begindatume: the start year and quarter (eg. "1996q1", year 1996 and quarter 1)
 ### einddatum: the end year and quarter (eg. "2005q3", year 2005 quarter 3)
 ### data: "83131NED" containing the CPI data
