@@ -8,4 +8,4 @@
 2. df1: een dataframe met daarin de kwartaalmutatie tussen "1996q1" en "2000q4"
 3. df2: een dataframe met daarin de kwartaalmutatie tussen "2001q1" en "2005q4"
 4. p is de figuur die is gemaakt (opgeslagen als Rplot.pdf)
-3. test.db is de aangemaakte database die het geselecteerde dataframe df1 en df2 bevat
+3. test.db is de aangemaakte database die het geselecteerde dataframe df1 (dbdf1) en df2 (dbdf2) bevat
